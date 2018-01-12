@@ -22,7 +22,7 @@
 
 运行方法：
 
-仅需在.bat文件中更改第三个参数，也就是你的word_index.py 存放的位置即可 
+仅需在.bat文件中更改第三个参数，也就是你的英语试题的 存放的位置即可，最终结果也将在这里可以看到 
 
 python word_index.py C:\Users\hwj\Desktop\word_sort\wordtemp
 
